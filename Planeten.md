@@ -1,10 +1,10 @@
 # Liste der Planeten
-Merkur
-Venus
-Erde
-Mars
-Jupiter
-Saturn
-Uranus
-Neptun
-Pluto
+1. Merkur
+2. Venus
+3. Erde
+4. Mars
+5. Jupiter
+6. Saturn
+7. Uranus
+8. Neptun
+9. Pluto
